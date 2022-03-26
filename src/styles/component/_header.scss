@@ -1,0 +1,21 @@
+#header {
+    background-color: $off-black;
+    padding: $m-size 0;
+    display: block;
+    margin-bottom: $l-size;
+}
+
+#header__wrapper {
+    max-width: $max-width;
+    margin: auto;
+}
+
+#header__title {
+    margin: 2px;
+}
+#header__subtitle {
+    color: $off-white;
+    font-weight: 500;
+    font-size: $s-size;
+    margin: 0;
+}

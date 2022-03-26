@@ -1,0 +1,27 @@
+#action {
+    margin: 0;
+    background-color: $purple;
+    font-weight: 500;
+    font-size: 1.5rem;
+    color: white;
+    border: none;
+    border-bottom: 0.3rem solid #693cad;
+    text-align: center;
+    padding: 24px;
+    width: 100%;
+}
+
+.button {
+    background: $purple;
+    border: none;
+    border-bottom: .3rem solid #693cad;
+    font-weight: 500;
+    padding: $s-size;
+}
+
+.button2 {
+    background: none;
+    border: none;
+    color: $off-white;
+    padding: 0;
+}

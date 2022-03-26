@@ -1,0 +1,20 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: rgb(49, 49, 49);
+    margin: 0;
+}
+
+h1, h2, h3, p {
+    margin-top: 0.2rem;
+    margin-bottom: 0.2rem;
+    color: white;
+}
+
+button {
+    cursor: pointer;
+}
+
+button:disabled {
+    cursor: default;
+    opacity: 0.5;
+}
